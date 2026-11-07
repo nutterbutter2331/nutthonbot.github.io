@@ -6,7 +6,7 @@ View our [Terms of Service](#terms-of-service) and [Privacy Policy](#privacy-pol
 
 Wait! Don't have our bot yet? [**_Invite it!_**](https://discord.com/oauth2/authorize?client_id=1565976724645085335&permissions=8&integration_type=0&scope=applications.commands+bot)
 
-Want to see Frequent Questions? Go to the [FAQ Section]()
+Want to see Frequent Questions? Go to the [FAQ Section](#frequently-asked-questions)
 
 ---
 
