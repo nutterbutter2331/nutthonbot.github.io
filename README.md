@@ -6,7 +6,16 @@ View our [Terms of Service](#terms-of-service) and [Privacy Policy](#privacy-pol
 
 Wait! Don't have our bot yet? [**_Invite it!_**](https://discord.com/oauth2/authorize?client_id=1565976724645085335&permissions=8&integration_type=0&scope=applications.commands+bot)
 
+Want to see Frequent Questions? Go to the [FAQ Section]()
+
 ---
+
+# TOS & Privacy Policy
+Since Nutthon is open to all discord users,
+We need to set baselines for those who use our bots.
+By using our bot, you agree to these forms,
+if you disagree, then **you *should not* use our bot**
+**NO EXCEPTIONS.**
 
 # Terms of Service
 
@@ -20,7 +29,7 @@ Welcome to Nutthon! By inviting, accessing, or using Nutthon, you agree to the f
 
 By using Nutthon, you acknowledge that you have read and agreed to these Terms.
 
-If you do not agree with these Terms, you should stop using the bot.
+Again, if you do not agree with these Terms, you should stop using the bot.
 
 ### 2. Acceptable Usage
 
@@ -147,3 +156,18 @@ For questions, concerns, or reports regarding these Terms of service or Privacy 
 
 - **Developer:** Nut, contactable by [Discord](https://discord.com/users/1426434936365383761)
 - **Support Server:** [Nut.com](https://discord.gg/BnpPe5sh5c)
+---
+# Frequently Asked Questions
+## What is Nutthon?
+Nutthon is a bot tweaked for the fun of users, server commands, and much more!
+Although it may seem great, if you havent seen the [TOS](#terms-of-service) *which you should go check out*,
+Nutthon is **PURELY EXPERIMENTAL** and may have but not limited to:
+- Bugs
+- Latency issues
+- Probable abuse by users
+If you like Nutthon, you should check out my other creations/creations i'm affiliated with!:
+- Tales Of The Graveyard (It has Nutthon too!): [Discord server](https://discord.gg/zAfqwYFqA3), Roblox Game(Sorry, not released to the public... yet.)
+## Will new features be added?
+Yes! Quite frequently actually, as this is WIP and is experimental.
+But, of course, with great things come great interruptions.
+Nutthon will be turned off frequently and is only online from Singapore Time 12pm-9pm (maybe even later).
