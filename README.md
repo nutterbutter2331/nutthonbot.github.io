@@ -1,4 +1,4 @@
-# Hello,
+# Hello
 
 Welcome to the official Nutthon (bot) documentation.
 
@@ -14,7 +14,7 @@ Want to see Frequent Questions? Go to the [FAQ Section](#frequently-asked-questi
 Since Nutthon is open to all discord users,
 We need to set baselines for those who use our bots.
 By using our bot, you agree to these forms,
-if you disagree, then **you *should not* use our bot**
+if you disagree, then **you _should not_ use our bot**
 **NO EXCEPTIONS.**
 
 # Terms of Service
@@ -155,19 +155,29 @@ By using Nutthon, you acknowledge this Privacy Policy.
 For questions, concerns, or reports regarding these Terms of service or Privacy Policy, contact:
 
 - **Developer:** Nut, contactable by [Discord](https://discord.com/users/1426434936365383761)
+
 - **Support Server:** [Nut.com](https://discord.gg/BnpPe5sh5c)
+
 ---
+
 # Frequently Asked Questions
+
 ## What is Nutthon?
+
 Nutthon is a bot tweaked for the fun of users, server commands, and much more!
-Although it may seem great, if you havent seen the [TOS](#terms-of-service) *which you should go check out*,
+Although it may seem great, if you havent seen the [TOS](#terms-of-service) _which you should go check out_,
 Nutthon is **PURELY EXPERIMENTAL** and may have but not limited to:
+
 - Bugs
 - Latency issues
 - Probable abuse by users
+
 If you like Nutthon, you should check out my other creations/creations i'm affiliated with!:
+
 - Tales Of The Graveyard (It has Nutthon too!): [Discord server](https://discord.gg/zAfqwYFqA3), Roblox Game(Sorry, not released to the public... yet.)
+
 ## Will new features be added?
+
 Yes! Quite frequently actually, as this is WIP and is experimental.
 But, of course, with great things come great interruptions.
 Nutthon will be turned off frequently and is only online from Singapore Time 12pm-9pm (maybe even later).
